@@ -1,0 +1,2 @@
+replicaCount: 5
+service: false

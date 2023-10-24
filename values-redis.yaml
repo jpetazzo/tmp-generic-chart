@@ -1,0 +1,6 @@
+image:
+  registry: docker.io
+  repository: redis
+  tag: latest
+service:
+  port: 6379
